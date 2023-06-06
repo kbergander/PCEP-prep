@@ -1,8 +1,8 @@
 # Programm welches einen Name, eine Telefonnummer und eine E-Mailanschrift ausgegeben wird
-#Kai Bergander
+#Kai Berg
 #02.06.2023
 
-print("Name: Kai Bergander", "555-Schuh", "kai@kai.de")
+print("Name: Kai Berg", "555-Schuh", "kai@kai.de")
 print("")
 print("**** Meine Musiktitel ****")
 print("N - neuen Eintrag hinzufügen")
